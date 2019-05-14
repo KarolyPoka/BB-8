@@ -1,4 +1,4 @@
-# BB-8 <img align="left" src="images/bb8.png" width="158" height="254"><img align="right" src="images/bb8.png" width="158" height="254">
+# BB-8 <img align="left" src="images/bb8.png" width="158" height="254"><img align="right" src="images/bb8_ours.jpg" width="241" height="214">
 
 ## Getting Started
 
