@@ -83,6 +83,7 @@ Without my marvelous hardware this repo does not worth a shit to You but if it d
 
 ## Acknowledgments
 
-* Hat tip to anyone whose code was used
-* Inspiration
-* etc
+* Myself
+* Star Wars movie
+* Dr. Tevesz Gábor: Robotirányítás rendszertechnikája, Elektornikus jegyzet, 6. fejezet, 2017
+* Lantos Béla-Irányítási Rendszerek Elmélete és Tervezése I. Egyváltozós szabályozások (Akadémia Kiadó, Budapest)
