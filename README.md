@@ -1,6 +1,6 @@
 # BB-8 <img align="left" src="images/bb8.png" width="158" height="254"><img align="right" src="images/bb8_ours.jpg" width="241" height="214">
 
-## Getting Started
+## What is this repo for
 
 In this repo I will show You how to set-up the BB-8 droid. You could download the appropriate file which is operating the robot. You will have a brief introduction to assemble the system and connect the mobile application with the ESP-32 modul BB-8 inside.
 
