@@ -1,4 +1,4 @@
-# BB-8
+# BB-8 (https://raw.githubusercontent.com/KarolyPoka/BB-8/images/to/bb8.png)
 
 
 ## Getting Started
