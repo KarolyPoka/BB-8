@@ -1,6 +1,4 @@
-# BB-8 
-![BB8](link-to-image)
-
+# BB-8 <img align="right" src="images/bb8.png" width="158" height="254">
 
 ## Getting Started
 
