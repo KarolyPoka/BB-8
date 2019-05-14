@@ -8,10 +8,13 @@ In this repo I will show You how to set-up the BB-8 droid. You could download th
 
 ### Prerequisites
 
-What things you need to install the software and how to install them
+
+What things you need to upload the control software to BB-8 and how to get control above it.
 
 ```
-Give examples
+Arudino IDE
+ESP-32 hardvare folder for the IDE
+Blynk Andorid App
 ```
 
 ### Installing
