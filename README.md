@@ -1,4 +1,5 @@
-# BB-8 (https://raw.githubusercontent.com/KarolyPoka/BB-8/images/to/bb8.png)
+# BB-8 
+![BB8](link-to-image)
 
 
 ## Getting Started
