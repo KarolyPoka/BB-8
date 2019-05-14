@@ -74,7 +74,7 @@ We use [SemVer](http://semver.org/) for versioning. For the versions available, 
 
 ## Authors
 
-* **Karoly Poka** - *BSc-thesis* - electrical engieneering-control systems
+* **Karoly Poka** :godmode: - *BSc-thesis* - electrical engieneering-control systems :electric_plug:
 
 See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
 
