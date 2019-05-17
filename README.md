@@ -27,11 +27,6 @@ You can follow these steps to be able to use the droid:
 <img align="center" src="images/blynk_setting1.png" width="158" height="254">
 <img src="images/blynk_setting2.png" width="158" height="254">
 
-
-
-
-
-
 - Upload the body-s controller conde to the ESP module with the Ardunio IDE paying attention to the following code parts:
 ```
 //example 
@@ -39,14 +34,17 @@ char auth[] = "4191ba0acfbb4d3583f420c3d9d0ef1e"; //specific for every Blynk pro
 char ssid[] = "J.A.R.V.I.S.";                     //your hotspot's wifi name
 char pass[] = "tonystarkdiesinendgame";           //your hotspot's wifi password
 ```
+- Use the following instructions to wiring:
+```
+
+```
+<img align="center" src="images/ESP32-Pinout.jpg">
+
 - Connect the power source to the Body's motherboard and wait for the ESP-Mobile connection. If the connection is successfull the 
 little red sing will disappear in the Blynk' board.
 
 - Try to control the motors.
 
-
-
-End with an example of getting some data out of the system or using it for a little demo
 
 ## Running the tests
 
