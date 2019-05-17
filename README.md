@@ -20,11 +20,11 @@ What things you need to upload the control software to BB-8 and how to get contr
 
 You can follow these steps to be able to use the droid:
 
--Download the Blynk app to you mobile phone using the link above.
+- Download the Blynk app to you mobile phone using the link above.
 
--Create the following board with the following settings:
+- Create the following board with the following settings:
 
--Upload the body-s controller conde to the ESP module with the Ardunio IDE paying attention to the following code parts:
+- Upload the body-s controller conde to the ESP module with the Ardunio IDE paying attention to the following code parts:
 
 ```
 //example 
@@ -32,10 +32,10 @@ char auth[] = "4191ba0acfbb4d3583f420c3d9d0ef1e"; //specific for every Blynk pro
 char ssid[] = "J.A.R.V.I.S.";                     //your hotspot's wifi name
 char pass[] = "tonystarkdiesinendgame";           //your hotspot's wifi password
 ```
--Connect the power source to the Body's motherboard and wait for the ESP-Mobile connection. If the connection is successfull the 
+- Connect the power source to the Body's motherboard and wait for the ESP-Mobile connection. If the connection is successfull the 
 little red sing will disappear in the Blynk' board.
 
--Try to control the motors.
+- Try to control the motors.
 
 
 
