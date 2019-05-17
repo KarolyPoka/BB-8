@@ -12,25 +12,32 @@ What things you need to upload the control software to BB-8 and how to get contr
 
 
 - Arudino [IDE](https://www.arduino.cc/en/Main/Software/)
-- ESP-32 hardware folder for the IDE
+- ESP-32 hardware folder for the IDE[link in the future]
 - Blynk Andorid [App](https://play.google.com/store/apps/details?id=cc.blynk&hl=en_US)
 
 
 ### Installing
 
-A step by step series of examples that tell you how to get a development env running
+You can follow these steps to be able to use the droid:
 
-Say what the step will be
+-Download the Blynk app to you mobile phone using the link above.
 
-```
-Give the example
-```
+-Create the following board with the following settings:
 
-And repeat
+-Upload the body-s controller conde to the ESP module with the Ardunio IDE paying attention to the following code parts:
 
 ```
-until finished
+//example 
+char auth[] = "4191ba0acfbb4d3583f420c3d9d0ef1e"; //specific for every Blynk project and user (You can create it with the Blink app)
+char ssid[] = "J.A.R.V.I.S.";                     //your hotspot's wifi name
+char pass[] = "tonystarkdiesinendgame";           //your hotspot's wifi password
 ```
+-Connect the power source to the Body's motherboard and wait for the ESP-Mobile connection. If the connection is successfull the 
+little red sing will disappear in the Blynk' board.
+
+-Try to control the motors.
+
+
 
 End with an example of getting some data out of the system or using it for a little demo
 
