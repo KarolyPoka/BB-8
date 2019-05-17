@@ -23,7 +23,8 @@ You can follow these steps to be able to use the droid:
 - Download the Blynk app to you mobile phone using the link above.
 
 - Create the following board with the following settings:
-<img align="left" src="images/blynk_idle.jpg" width="158" height="254">
+
+
 
 - Upload the body-s controller conde to the ESP module with the Ardunio IDE paying attention to the following code parts:
 
