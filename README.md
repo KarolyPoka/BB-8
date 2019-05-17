@@ -75,6 +75,8 @@ little red sing will disappear in the Blynk' board.
 <img src="images/blynk_not_connected2.png" width="346" height="252">
 - Try to control the motors.
 
+## 3D designed parts
+
 
 ## Authors
 
