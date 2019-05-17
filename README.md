@@ -34,8 +34,38 @@ char auth[] = "4191ba0acfbb4d3583f420c3d9d0ef1e"; //specific for every Blynk pro
 char ssid[] = "J.A.R.V.I.S.";                     //your hotspot's wifi name
 char pass[] = "tonystarkdiesinendgame";           //your hotspot's wifi password
 ```
+
 - Use the following instructions to wiring:
+<img align="left" src="images/Motor_pinout.png" >
+<img align="center" src="images/L298N.jpg" width="256" height="170" ><br/>
+
+
 ```
+1. MOTOR:
+PIN1 = ESP pin 26  
+PIN2 = ESP pin 25  
+L928N ENABLE = ESP pin 27
+ENCODER A PHASE = 33      //or check the increment counter in the ESP code if it's contuning down it's wrong
+ENCODER B PHASE = 32
+
+
+2. MOTOR:
+PIN1 = ESP pin 18
+PIN2 = ESP pin 19
+L928N ENABLE = ESP pin 5
+ENCODER A PHASE = 13
+ENCODER B PHASE = 14
+
+3. MOTOR:
+PIN1 = ESP pin 16
+PIN2 = ESP pin 17
+L928N ENABLE = ESP pin 4
+ENCODER A PHASE = 35
+ENCODER B PHASE = 34
+
+for all motor:
+ENCODER+ = ESP 3.3V output
+ENCODER- = ESP GND
 
 ```
 <img align="center" src="images/ESP32-Pinout.jpg">
