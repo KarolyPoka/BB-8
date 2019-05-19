@@ -27,7 +27,7 @@ You can follow these steps to be able to use the droid:
 <img align="center" src="images/blynk_setting1.png" width="158" height="254">
 <img src="images/blynk_setting2.png" width="158" height="254">
 
-#### 3. Upload the body-s controller conde to the ESP module with the Ardunio IDE paying attention to the following code parts:
+#### 3. Upload the body's controller code to the ESP module with the Ardunio IDE paying attention to the following code parts:
 ```
 //example 
 char auth[] = "4191ba0acfbb4d3583f420c3d9d0ef1e"; //specific for every Blynk project and user (You can create it with the Blink app)
