@@ -71,7 +71,7 @@ ENCODER- = ESP GND
 <img align="center" src="images/ESP32-Pinout.jpg">
 
 #### 5. Connect the power source to the Body's motherboard and wait for the ESP-Mobile connection. If the connection is successfull the little red sing will disappear in the Blynk' board.
-<img src="images/blynk_not_connected2.png" width="346" height="252">
+<img src="images/blynk_not_connected2.png" width="346" height="252"><br/>
 #### 6. Let's play.
 
 ## 3D designed parts
