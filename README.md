@@ -77,15 +77,15 @@ little red sing will disappear in the Blynk' board.
 
 ## 3D designed parts
 
-All 3D cad part is available in [this](...) folder.
+All 3D cad part is available in [this](https://github.com/KarolyPoka/BB-8/tree/master/3D_desing) folder.
 
 ## ESP files
 
-All ESP controller file is available in [this](...) folder.
+All ESP controller file is available in [this](https://github.com/KarolyPoka/BB-8/tree/master/ESP_files) folder.
 
 ## Matlab files to controller & communication design
 
-All Matlab file is available in [this](...) folder.
+All Matlab file is available in [this](https://github.com/KarolyPoka/BB-8/tree/master/Matlab_files) folder.
 
 ## Authors
 
