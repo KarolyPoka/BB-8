@@ -20,14 +20,14 @@ What things you need to upload the control software to BB-8 and how to get contr
 
 You can follow these steps to be able to use the droid:
 
-1. Download the Blynk app to you mobile phone using the link above.
+#### 1. Download the Blynk app to you mobile phone using the link above.
 
-2. Create the following board with the following settings:
+#### 2. Create the following board with the following settings:
 <img align="left" src="images/blynk_idle.png" width="158" height="254">
 <img align="center" src="images/blynk_setting1.png" width="158" height="254">
 <img src="images/blynk_setting2.png" width="158" height="254">
 
-3. Upload the body-s controller conde to the ESP module with the Ardunio IDE paying attention to the following code parts:
+#### 3. Upload the body-s controller conde to the ESP module with the Ardunio IDE paying attention to the following code parts:
 ```
 //example 
 char auth[] = "4191ba0acfbb4d3583f420c3d9d0ef1e"; //specific for every Blynk project and user (You can create it with the Blink app)
@@ -35,7 +35,7 @@ char ssid[] = "J.A.R.V.I.S.";                     //your hotspot's wifi name
 char pass[] = "tonystarkdiesinendgame";           //your hotspot's wifi password
 ```
 
-4. Use the following instructions to wiring:
+#### 4. Use the following instructions to wiring:
 <img align="left" src="images/Motor_pinout.png" >
 <img align="center" src="images/L298N.jpg" width="256" height="170" ><br/>
 
@@ -70,10 +70,10 @@ ENCODER- = ESP GND
 ```
 <img align="center" src="images/ESP32-Pinout.jpg">
 
-5. Connect the power source to the Body's motherboard and wait for the ESP-Mobile connection. If the connection is successfull the 
+#### 5. Connect the power source to the Body's motherboard and wait for the ESP-Mobile connection. If the connection is successfull the 
 little red sing will disappear in the Blynk' board.
 <img src="images/blynk_not_connected2.png" width="346" height="252">
-6. Let's play.
+#### 6. Let's play.
 
 ## 3D designed parts
 
