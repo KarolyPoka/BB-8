@@ -91,7 +91,7 @@ All Matlab file is available in [this](https://github.com/KarolyPoka/BB-8/tree/m
 * **Karoly Poka** :godmode: - *BSc-thesis* - electrical engieneering-control systems :electric_plug:
 
 ## License
-Without my marvelous hardware this repo does not worth a shit to You but if it does..."WE HAVE A HULK” .
+Without my marvelous hardware this repo worth nothing to you.
 
 ## Acknowledgments
 
